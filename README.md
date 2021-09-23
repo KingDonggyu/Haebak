@@ -67,7 +67,7 @@ COVID-19로 변화된 대학 생활을 맞으며, 많은 첨성인들이 모르�
 
 ## Getting Started
 
-웹 사이트 : https://knuhouse.netlify.app/
+웹 사이트 : ~~https://knuhouse.netlify.app/~~
 
 ### Prerequisites
 
